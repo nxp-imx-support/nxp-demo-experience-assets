@@ -7,4 +7,4 @@ For infomation how to get an evaluation kit, please see <https://www.nxp.com/pro
 
 ## Licencing
 
-See https://source.codeaurora.org/external/imxsupport/meta-nxp-demo-experience/tree/LICENSE for more information.
+See SW-Content-Register.txt for more information.
