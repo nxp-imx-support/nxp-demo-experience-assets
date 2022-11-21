@@ -11,3 +11,7 @@ The following files are licensed under Apache 2.0 in compliance with their origi
 - [posenet_resnet50_uint8_float32_quant.tflite](https://github.com/tensorflow/tfjs-models)
 - [facenet_int_quantized.tflite](https://github.com/shubham0204/FaceRecognition_With_FaceNet_Android/)
 - [ssd_mobilenet_v2_face_quant_postprocess.tflite](https://github.com/google-coral/test_data)
+- [face_landmark_ptq_vela.tflite](https://google.github.io/mediapipe/solutions/models)
+- [face_detection_ptq_vela.tflite](https://google.github.io/mediapipe/solutions/models)
+- [iris_landmark_ptq_vela.tflite](https://google.github.io/mediapipe/solutions/models)
+- [selfie_segmentation_quant.tflite](https://google.github.io/mediapipe/solutions/models)
