@@ -3,7 +3,7 @@ NXP Software Content Register
 Package:                    NXP Demo Experience Assets
 Outgoing License:           LA_OPT_NXP_Software_License v46 June 2023 - Additional distribution license granted - Section 2.3 applies
                             Files may be distributed according to the license noted in the headers or README files
-License File:               nxp-demo-experience-assets/LICENSE
+License File:               LICENSE
 Package Category:           Demo application
 Type of content:            Machine learning models, videos, graphics, images, compiled executable
 Description and comments:   NXP Demo Experience data, models and utility program
@@ -13,3 +13,12 @@ Origin:                     NXP (propietary)
                             Google LLC (Apache-2.0)
                             FaceRecognition with FaceNet Android Authors (Apache-2.0)
                             MediaPipe (Apache-2.0) https://google.github.io/mediapipe/solutions/models
+
+Package:                    VIT_Model_en.h
+Version:                    2023.1.0
+Outgoing License:           LA_OPT_NXP_Software_License v46 June 2023 - Additional Distribution License granted, license in Section 2.3 applies
+License File:               LICENSE
+Package Category:           Model Data
+Type of Content:            Source code
+Description and comments:   Generated VIT Model data defining WakeWord (Text2Model) and Voice Commands list (text2Model) for Voice Intelligent Technology (VIT).
+Origin:                     NXP (proprietary) Generated from https://vit.nxp.com
