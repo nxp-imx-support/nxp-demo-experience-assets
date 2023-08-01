@@ -14,4 +14,4 @@ The following files are licensed under Apache 2.0 in compliance with their origi
 - [face_landmark_ptq_vela.tflite](https://google.github.io/mediapipe/solutions/models)
 - [face_detection_ptq_vela.tflite](https://google.github.io/mediapipe/solutions/models)
 - [iris_landmark_ptq_vela.tflite](https://google.github.io/mediapipe/solutions/models)
-- [selfie_segmentation_quant.tflite](https://google.github.io/mediapipe/solutions/models)
+- [selfie_segmenter_int8.tflite & selfie_segmenter_landscape_int8_vela.tflite](https://developers.google.com/mediapipe/solutions/vision/image_segmenter)
