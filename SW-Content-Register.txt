@@ -12,7 +12,7 @@ Origin:                     NXP (propietary)
                             The TensorFlow Authors (Apache-2.0)
                             Google LLC (Apache-2.0)
                             FaceRecognition with FaceNet Android Authors (Apache-2.0)
-                            MediaPipe (Apache-2.0) https://google.github.io/mediapipe/solutions/models
+                            MediaPipe (Apache-2.0) https://developers.google.com/mediapipe/solutions
 
 Package:                    VIT_Model_en.h
 Version:                    2023.1.0
