@@ -1,0 +1,27 @@
+# Copyright 2021-2023 NXP
+# SPDX-License-Identifier: BSD-3-Clause
+
+ID:       cfdfc520-3c6b-11ee-8f59-63723c33a07f
+Builder:  2023.2.0
+Version:  LF6.1.22_2.0.0
+Language: English
+Platform: 8M
+Lexicon:  Lexicon
+
+# Format:  <word> [<sensitivity>]
+Wakeword:
+    hey nxp [0]
+
+Commands:
+    run bloom [0]
+    run blur [0]
+    run eight layer blend [0]
+    run fractal shader [0]
+    run line builder [0]
+    run transform [0]
+    run projection [0]
+    run cube spin [0]
+    run mapping [0]
+    run refraction [0]
+    suspend [0]
+    stop demo [0]
