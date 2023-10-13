@@ -1,12 +1,12 @@
 NXP Software Content Register
 
-Package:                    NXP Demo Experience Assets
+Package:                    GoPoint Assets
 Outgoing License:           LA_OPT_NXP_Software_License v48 July 2023 - Additional distribution license granted - Section 2.3 applies
                             Files may be distributed according to the license noted in the headers or README files
 License File:               LICENSE
 Package Category:           Demo application
 Type of content:            Machine learning models, videos, graphics, images, compiled executable
-Description and comments:   NXP Demo Experience data, models and utility program
+Description and comments:   GoPoint data, models and utility program
 Release Location:           https://github.com/nxp-imx-support/nxp-demo-experience-assets
 Origin:                     NXP (propietary)
                             VIT_Model (BSD-3-Clause)
