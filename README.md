@@ -1,6 +1,6 @@
 # GoPoint Assets
 
-[![Static Badge](https://img.shields.io/badge/license-proprietary-red)](./LICENSE)
+[![Static Badge](https://img.shields.io/badge/license-proprietary-red)](./LICENSE.txt)
 
 ## GoPoint
 
