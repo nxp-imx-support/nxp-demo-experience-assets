@@ -1,7 +1,7 @@
 NXP Software Content Register
 
 Package:                    GoPoint Assets
-Outgoing License:           LA_OPT_NXP_Software_License v48 July 2023 - Additional distribution license granted - Section 2.3 applies
+Outgoing License:           LA_OPT_NXP_Software_License v50 November 2023 - Additional distribution license granted - Section 2.3 applies
                             Files may be distributed according to the license noted in the headers or README files
 License File:               LICENSE.txt
 Package Category:           Demo application
