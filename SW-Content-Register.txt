@@ -1,12 +1,14 @@
 NXP Software Content Register
 
-Package:                    GoPoint Assets
-Outgoing License:           LA_OPT_NXP_Software_License v50 November 2023 - Additional distribution license granted - Section 2.3 applies
-                            Files may be distributed according to the license noted in the headers or README files
+Package:                    nxp-demo-experience-assets
+Version:                    4.8
+Date:                       March 2024
+Outgoing License:           LA_OPT_NXP_Software_License v53 December 2023 - Additional distribution license granted - Section 2.3 applies
+                            Files may be distributed according to the license noted in the headers or README.md files
 License File:               LICENSE.txt
 Package Category:           Demo application
-Type of content:            Machine learning models, videos, graphics, images, compiled executable
-Description and comments:   GoPoint data, models and utility program
+Type of content:            Machine learning models, videos, graphics, images, compiled executables
+Description and comments:   GoPoint for i.MX Applications Processors data, models and utility program
 Release Location:           https://github.com/nxp-imx-support/nxp-demo-experience-assets
 Origin:                     NXP (propietary)
                             VIT_Model (BSD-3-Clause)
@@ -24,6 +26,6 @@ Version:                    2023.2.0
 Outgoing License:           BSD-3-Clause
 License File:               licenses/BSD-3-Clause.txt
 Package Category:           Model Data
-Type of Content:            source code
+Type of Content:            Source code
 Description and comments:   Generated VIT Model data defining WakeWord (Text2Model) and Voice Commands list (text2Model) for Voice Intelligent Technology (VIT).
 Release Location:           Downloaded from https://vit.nxp.com
