@@ -1,0 +1,13 @@
+------------------------------------------------------
+NXP Software Content Register
+
+Generated Model Data for Voice Intelligent Technology (VIT)
+
+Package:                     VIT_Model
+Version:                     2024.2.0
+Outgoing License:            BSD-3-Clause
+License File:                LICENSE.txt
+Package Category:            Model Data
+Type of Content:             source code
+Description and comments:    Generated VIT Model data defining WakeWord (Text2Model) and Voice Commands list (text2Model) for Voice Intelligent Technology (VIT).
+Release Location:            Downloaded from https://vit.nxp.com

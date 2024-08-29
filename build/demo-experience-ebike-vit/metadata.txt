@@ -1,0 +1,20 @@
+# Copyright 2021-2024 NXP
+# SPDX-License-Identifier: BSD-3-Clause
+
+ID:       aeb1fbb0-4d5a-11ef-ab9e-ef6c2aef9c24
+Builder:  2024.2.0
+Version:  LF6.6.23_2.0.0
+Language: English
+Platform: 9X
+Lexicon:  Lexicon
+
+# Format:  <word> [<sensitivity>]
+Wakeword:
+    hey nxp [0]
+    hey e bike [0]
+
+Commands:
+    next page [0]
+    last page [0]
+    run demo [0]
+    stop demo [0]
