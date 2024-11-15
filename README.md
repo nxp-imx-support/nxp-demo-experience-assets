@@ -15,7 +15,7 @@ making complex use cases accessible to anyone. Users might need some basic knowl
 equipment on Evaluation Kits (EVKs), such as changing Device Tree Blob (DTB) files.
 
 For more information about GoPoint, please refer to
-[GoPoint for i.MX Applications Processors User's Guide](https://www.nxp.com/docs/en/user-guide/GPNTUG.pdf).
+[GoPoint for i.MX Applications Processors User's Guide](https://www.nxp.com/IMXLINUX).
 
 ## GoPoint for i.MX Applications Processors - Assets
 
@@ -28,6 +28,6 @@ For infomation on how to get an evaluation kit, please see
 
 ## Licensing
 
-This repository is licensed under the [LA_OPT_NXP_Software_License](./LICENSE.txt) license. Some assets are
+This repository is licensed under the [LA_OPT_Online Code Hosting NXP_Software_License](./LICENSE.txt) license. Some assets are
 under their own open-source licenses. Please refer to the [SW-Content-Register.txt](./SW-Content-Register.txt)
 file for more information.

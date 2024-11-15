@@ -1,9 +1,9 @@
 NXP Software Content Register
 
 Package:                    nxp-demo-experience-assets
-Version:                    4.10
-Date:                       September 2024
-Outgoing License:           LA_OPT_NXP_Software_License v57 July 2024 - Additional distribution license granted - Section 2.3 applies
+Version:                    4.11
+Date:                       December 2024
+Outgoing License:           LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023
                             Files may be distributed according to the license noted in the headers or README.md files
 License File:               LICENSE.txt
 Package Category:           Demo application
