@@ -1,0 +1,42 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2024-11-27T06:45:48Z",
+    "creators": [
+      "Organization: NXP"
+    ],
+    "licenseListVersion": "3.20"
+  },
+  "name": "nxp-demo-experience-assets-lf-6.6.52_2.2.0",
+  "dataLicense": "CC0-1.0",
+  "hasExtractedLicensingInfos": [
+    {
+      "licenseId": "LicenseRef-bf9973bb-8090-4f76-adea-710fd5e3efbc",
+      "extractedText": "NONE",
+      "name": "LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023"
+    }
+  ],
+  "documentNamespace": "https://nxp.com/spdx/1563e600-44c3-4cef-a6bd-e60c50dde1ef",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-package-1563e600-44c3-4cef-a6bd-e60c50dde1ef",
+      "name": "nxp-demo-experience-assets",
+      "versionInfo": "lf-6.6.52_2.2.0",
+      "licenseConcluded": "(LicenseRef-bf9973bb-8090-4f76-adea-710fd5e3efbc)",
+      "licenseDeclared": "(LicenseRef-bf9973bb-8090-4f76-adea-710fd5e3efbc)",
+      "downloadLocation": "https://github.com/nxp-imx-support/nxp-demo-experience-assets",
+      "originator": "Organization: NXP",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-package-1563e600-44c3-4cef-a6bd-e60c50dde1ef"
+    }
+  ]
+}
